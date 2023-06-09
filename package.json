@@ -7,7 +7,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.7.2",
+    "vite": "^2.9.16",
     "vite-plugin-glsl": "^0.0.8"
   },
   "dependencies": {
